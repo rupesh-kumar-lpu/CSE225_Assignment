@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CSE225_RupeshKumar_11712081</string>
+    <string name="about_string">Completed By:\n    Rupesh Kumar\n    Reg. No. : 11712081\n    Section : KM003\n    Roll No. : RKM003B43\n    Course : CSE225 \n\nSubmitted To:\n    Prof. Sawal Tandon\n    Lovely Professional University, Phagwara\n\n</string>
+    <string name="Github_Link">Github Link : https://github.com/rupesh-kumar-lpu/CSE225_Assignment</string>>
+    <string name="tab_text_1">Tab One Dial</string>
+    <string name="tab_text_2">Tab Two</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
